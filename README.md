@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sswwd95)](https://solved.ac/sswwd95)
+<img src="https://img.shields.io/badge/blue?style=flat-square&logo=python&logoColor=white"/></a>&nbsp 
