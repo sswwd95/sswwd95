@@ -1,8 +1,7 @@
 
 
-https://img.shields.io/badge/-Tensorflow-orange
 
-#H1,Interest
+#Interest
   -##H2, ▶Machine Learning
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sswwd95)](https://solved.ac/sswwd95)
 
