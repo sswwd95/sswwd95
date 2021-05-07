@@ -1,5 +1,3 @@
-# **Interest**
-
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sswwd95)](https://solved.ac/sswwd95)
 
