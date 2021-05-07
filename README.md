@@ -1,8 +1,4 @@
 
-
-
-#Interest
-  -##H2, ▶Machine Learning
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sswwd95)](https://solved.ac/sswwd95)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sswwd95)](https://github.com/sswwd95/github-readme-stats)
