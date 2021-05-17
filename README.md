@@ -4,7 +4,7 @@
 
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=sswwd95&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sswwd95)](https://solved.ac/sswwd95)
 </td></tr></table>  
 
