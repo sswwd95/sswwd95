@@ -14,7 +14,8 @@
 </td></tr></table>  
 <br/>  
 
- 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sswwd95)](https://solved.ac/sswwd95)
+</td></tr></table>  
 
 ## Skills
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> 
